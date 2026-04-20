@@ -1,4 +1,4 @@
-import google.genai as genai
+from google import genai
 from dotenv import load_dotenv
 from gtts import gTTS
 import os
